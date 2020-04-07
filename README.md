@@ -1,2 +1,2 @@
 # test
-Corona virus needs quarantine.
+This is a testing repo.
