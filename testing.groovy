@@ -2,9 +2,6 @@ xlr {
   release('Empty') {
     scheduledStartDate Date.parse("yyyy-MM-dd'T'HH:mm:ssZ", '2020-05-07T09:00:00+0530')
     phases {
-      phase('New Phase') {
-        
-      }
     }
     teams {
       team('Release Admin') {
